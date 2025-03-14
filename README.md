@@ -65,12 +65,3 @@ npm run test
 Consulta la documentación adicional en el siguiente enlace:
 [Enlace](https://riunet.upv.es/bitstream/handle/10251/206917/Dominguez%20-%20GameAndMatch%20Una%20aplicacion%20movil%20para%20encontrar%20jugadores.pdf?sequence=1&isAllowed=y)
 
-## 💬 Contribuciones
-
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b feature/mi-nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -am 'Agregué una nueva funcionalidad'`).
-4. Envía un pull request.
-
